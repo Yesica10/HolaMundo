@@ -20,7 +20,7 @@ namespace Hola_Mundo
         private void button1_Click(object sender, EventArgs e)
         {
 
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("hoy mejor que ayer, mañana mejor que hoy");
         }
     }
 }
